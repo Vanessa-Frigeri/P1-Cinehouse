@@ -13,3 +13,5 @@ const CINEMA = require('./cinema');
 // CINEMA.listarTodosFilmes2();
 // CINEMA.buscarFilmePeloCodigo(2);
 CINEMA.calcularFaturamento();
+
+//teste
