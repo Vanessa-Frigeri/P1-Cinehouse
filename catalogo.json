@@ -1,0 +1,25 @@
+[{
+        "codigo": 1,
+        "titulo": "Matrix",
+        "anoDeLancamento": 1999,
+        "duracao": 2.5,
+        "emCartaz": false,
+        "faturamento": 100000000
+    },
+    {
+        "codigo": 2,
+        "titulo": "Harry Potter",
+        "anoDeLancamento": 2001,
+        "duracao": 1.5,
+        "emCartaz": false,
+        "faturamento": 10000
+    },
+    {
+        "codigo": 2,
+        "titulo": "Velozes e Furiosos",
+        "anoDeLancamento": 2021,
+        "duracao": 3.5,
+        "emCartaz": false,
+        "faturamento": 0
+    }
+]
